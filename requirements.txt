@@ -1,0 +1,33 @@
+# Core AI Framework
+langchain>=1.0.0
+langchain-core>=1.0.0
+langchain-openai>=1.0.0
+langchain-community>=0.3.0
+langgraph>=1.2.7
+
+# Search Tool
+langchain-tavily>=0.2.0
+tavily-python>=0.7.0
+
+# Google Gemini
+google-genai>=1.30.0
+
+# Environment Variables
+python-dotenv>=1.1.0
+
+# Data Validation
+pydantic>=2.10.0
+
+# HTTP Requests
+requests>=2.32.0
+httpx>=0.28.0
+
+# Tokenizer
+tiktoken>=0.11.0
+
+# Jupyter Notebook
+ipykernel>=7.0.0
+jupyter>=1.1.0
+
+# Utilities
+typing-extensions>=4.15.0
