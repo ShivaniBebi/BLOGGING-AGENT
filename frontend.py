@@ -15,7 +15,7 @@ import streamlit as st
 # -----------------------------
 # Import your compiled LangGraph app
 # -----------------------------
-from bwa_backend import app
+from backend import app
 
 
 # -----------------------------
